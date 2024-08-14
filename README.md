@@ -27,3 +27,6 @@ For server part I used NestJS framework and MongoDB Compass.
 ## Access the website
 To see the application running you need to go to the browser and type "localhost:5173"
 To see the local Nest app application type "localhost:3000".
+## Known issues (Work in progress)
+The application can't connect to the database so it can't display the works from the portofolio.
+The frontend is responsive.
